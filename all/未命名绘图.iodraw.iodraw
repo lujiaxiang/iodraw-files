@@ -19,6 +19,9 @@
         <mxCell id="WxadAlhUbte5FVWdo0sH-10" value="&lt;div&gt;填写客户信息并提交申请&lt;/div&gt;&lt;div&gt;Fill in customer information and submit application&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-5">
           <mxGeometry x="140" y="20" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WxadAlhUbte5FVWdo0sH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WxadAlhUbte5FVWdo0sH-5" source="WxadAlhUbte5FVWdo0sH-16" target="WxadAlhUbte5FVWdo0sH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-16" value="&lt;div&gt;修改客户信息&lt;/div&gt;&lt;div&gt;Modify customer information&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-5">
           <mxGeometry x="280" y="20" width="120" height="80" as="geometry" />
         </mxCell>
