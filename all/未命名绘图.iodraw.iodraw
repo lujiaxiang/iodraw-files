@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WxadAlhUbte5FVWdo0sH-4" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+        <mxCell id="WxadAlhUbte5FVWdo0sH-4" value="客户主数据" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="310" width="480" height="360" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-5" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
