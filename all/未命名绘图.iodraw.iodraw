@@ -60,10 +60,13 @@
         <mxCell id="WxadAlhUbte5FVWdo0sH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WxadAlhUbte5FVWdo0sH-4" source="WxadAlhUbte5FVWdo0sH-12" target="WxadAlhUbte5FVWdo0sH-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WxadAlhUbte5FVWdo0sH-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WxadAlhUbte5FVWdo0sH-21">
+        <mxCell id="WxadAlhUbte5FVWdo0sH-22" value="Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WxadAlhUbte5FVWdo0sH-21">
           <mxGeometry x="-0.2909" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WxadAlhUbte5FVWdo0sH-23" value="生成客户主数据&lt;div&gt;Generate customer master data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="620" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
