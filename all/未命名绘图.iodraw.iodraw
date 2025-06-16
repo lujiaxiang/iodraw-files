@@ -19,7 +19,7 @@
         <mxCell id="WxadAlhUbte5FVWdo0sH-10" value="&lt;div&gt;填写客户信息并提交申请&lt;/div&gt;&lt;div&gt;Fill in customer information and submit application&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-5">
           <mxGeometry x="140" y="20" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WxadAlhUbte5FVWdo0sH-16" value="&lt;div&gt;填写客户信息并提交申请&lt;/div&gt;&lt;div&gt;Fill in customer information and submit application&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-5">
+        <mxCell id="WxadAlhUbte5FVWdo0sH-16" value="&lt;div&gt;修改客户信息&lt;/div&gt;&lt;div&gt;Modify customer information&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-5">
           <mxGeometry x="280" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-6" value="OA" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
@@ -46,7 +46,7 @@
         <mxCell id="WxadAlhUbte5FVWdo0sH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WxadAlhUbte5FVWdo0sH-4" source="WxadAlhUbte5FVWdo0sH-12" target="WxadAlhUbte5FVWdo0sH-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WxadAlhUbte5FVWdo0sH-18" value="Reject&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WxadAlhUbte5FVWdo0sH-17">
+        <mxCell id="WxadAlhUbte5FVWdo0sH-18" value="Reject" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WxadAlhUbte5FVWdo0sH-17">
           <mxGeometry x="-0.1818" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
