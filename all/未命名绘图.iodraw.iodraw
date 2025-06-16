@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-16" value="&lt;div&gt;修改客户信息&lt;/div&gt;&lt;div&gt;Modify customer information&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-5">
-          <mxGeometry x="280" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="315" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-6" value="OA" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
           <mxGeometry x="20" y="120" width="720" height="120" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="140" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-6">
-          <mxGeometry x="315" y="35" width="50" height="50" as="geometry" />
+          <mxGeometry x="350" y="35" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-7" value="MDM" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
           <mxGeometry x="20" y="240" width="720" height="120" as="geometry" />
@@ -53,6 +53,9 @@
           <mxGeometry x="-0.1818" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WxadAlhUbte5FVWdo0sH-20" value="&lt;div&gt;修改客户信息&lt;/div&gt;&lt;div&gt;Modify customer information&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="380" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
