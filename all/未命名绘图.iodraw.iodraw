@@ -10,10 +10,10 @@
         <mxCell id="WxadAlhUbte5FVWdo0sH-5" value="CRM" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
           <mxGeometry x="20" width="460" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WxadAlhUbte5FVWdo0sH-6" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
+        <mxCell id="WxadAlhUbte5FVWdo0sH-6" value="MDM" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
           <mxGeometry x="20" y="120" width="460" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WxadAlhUbte5FVWdo0sH-7" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
+        <mxCell id="WxadAlhUbte5FVWdo0sH-7" value="" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
           <mxGeometry x="20" y="240" width="460" height="120" as="geometry" />
         </mxCell>
       </root>
