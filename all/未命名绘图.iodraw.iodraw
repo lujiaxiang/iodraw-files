@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WxadAlhUbte5FVWdo0sH-4" value="客户准入流程 Customer admission process" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="350" width="740" height="480" as="geometry" />
+          <mxGeometry x="170" y="350" width="650" height="480" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-5" value="CRM" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
-          <mxGeometry x="20" width="720" height="120" as="geometry" />
+          <mxGeometry x="20" width="630" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WxadAlhUbte5FVWdo0sH-5" source="WxadAlhUbte5FVWdo0sH-9" target="WxadAlhUbte5FVWdo0sH-10">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="315" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-6" value="OA" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
-          <mxGeometry x="20" y="120" width="720" height="120" as="geometry" />
+          <mxGeometry x="20" y="120" width="630" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WxadAlhUbte5FVWdo0sH-6" source="WxadAlhUbte5FVWdo0sH-11" target="WxadAlhUbte5FVWdo0sH-12">
           <mxGeometry relative="1" as="geometry" />
@@ -38,13 +38,16 @@
           <mxGeometry x="350" y="35" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-7" value="MDM" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
-          <mxGeometry x="20" y="240" width="720" height="120" as="geometry" />
+          <mxGeometry x="20" y="240" width="630" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-20" value="生成客户主数据&lt;div&gt;Generate customer master data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-7">
           <mxGeometry x="315" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-8" value="SAP" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-4">
-          <mxGeometry x="20" y="360" width="720" height="120" as="geometry" />
+          <mxGeometry x="20" y="360" width="630" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WxadAlhUbte5FVWdo0sH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WxadAlhUbte5FVWdo0sH-8" source="WxadAlhUbte5FVWdo0sH-23" target="WxadAlhUbte5FVWdo0sH-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WxadAlhUbte5FVWdo0sH-23" value="生成客户主数据&lt;div&gt;Generate customer master data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WxadAlhUbte5FVWdo0sH-8">
           <mxGeometry x="315" y="20" width="120" height="80" as="geometry" />
@@ -70,6 +73,9 @@
           <mxGeometry x="-0.2909" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WxadAlhUbte5FVWdo0sH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WxadAlhUbte5FVWdo0sH-4" source="WxadAlhUbte5FVWdo0sH-20" target="WxadAlhUbte5FVWdo0sH-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
