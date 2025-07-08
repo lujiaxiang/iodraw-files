@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y0o_cz6zVPPM8SC0i69p-35" value="2、CRM发车单中点击取消SAP订单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=#FF3333;" vertex="1" connectable="0" parent="Y0o_cz6zVPPM8SC0i69p-34">
+        <mxCell id="Y0o_cz6zVPPM8SC0i69p-35" value="2、CRM发车单中点击取消SAP发车单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=#FF3333;" vertex="1" connectable="0" parent="Y0o_cz6zVPPM8SC0i69p-34">
           <mxGeometry x="0.3653" y="2" relative="1" as="geometry">
             <mxPoint y="7" as="offset" />
           </mxGeometry>
