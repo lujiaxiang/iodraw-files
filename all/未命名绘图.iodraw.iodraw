@@ -107,7 +107,7 @@
         <mxCell id="Y0o_cz6zVPPM8SC0i69p-36" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y0o_cz6zVPPM8SC0i69p-20" target="Y0o_cz6zVPPM8SC0i69p-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y0o_cz6zVPPM8SC0i69p-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Y0o_cz6zVPPM8SC0i69p-36">
+        <mxCell id="Y0o_cz6zVPPM8SC0i69p-37" value="3、取消发车后，取消SAP销售订单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Y0o_cz6zVPPM8SC0i69p-36">
           <mxGeometry x="0.4901" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
