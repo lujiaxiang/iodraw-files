@@ -66,7 +66,7 @@
         <mxCell id="Y0o_cz6zVPPM8SC0i69p-19" value="推送SAP生成发车单&lt;div&gt;（例：8000098829）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="400" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y0o_cz6zVPPM8SC0i69p-20" value="CRM：创建发车单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y0o_cz6zVPPM8SC0i69p-20" value="SAP推送WMS进行分拣、装配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="460" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
