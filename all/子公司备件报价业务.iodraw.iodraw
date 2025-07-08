@@ -277,92 +277,110 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-2" target="IFCMi06TkUYfGGNpKz3D-6">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="IFCMi06TkUYfGGNpKz3D-2" target="IFCMi06TkUYfGGNpKz3D-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-2" value="CRM：创建报价单&lt;div&gt;填写客户，备件信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-2" value="CRM：创建报价单&lt;div&gt;填写客户，备件信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="100" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-4" target="IFCMi06TkUYfGGNpKz3D-2">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IFCMi06TkUYfGGNpKz3D-4" target="IFCMi06TkUYfGGNpKz3D-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-4" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-4" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="80" y="20" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-6" target="IFCMi06TkUYfGGNpKz3D-8">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IFCMi06TkUYfGGNpKz3D-6" target="IFCMi06TkUYfGGNpKz3D-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-6" value="CRM：查询SAP成本、生成净价、销售价" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-6" value="CRM：查询SAP成本、生成净价、销售价" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="160" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-8" target="IFCMi06TkUYfGGNpKz3D-10">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IFCMi06TkUYfGGNpKz3D-8" target="IFCMi06TkUYfGGNpKz3D-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-8" value="CRM：报价单创建完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-8" value="CRM：报价单创建完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="220" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IFCMi06TkUYfGGNpKz3D-12">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="IFCMi06TkUYfGGNpKz3D-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-10" value="CRM：依据报价单创建销售订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-10" value="CRM：依据报价单创建销售订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-12" target="IFCMi06TkUYfGGNpKz3D-14">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IFCMi06TkUYfGGNpKz3D-12" target="IFCMi06TkUYfGGNpKz3D-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-12" value="CRM：推送SAP生成销售订单&lt;div&gt;（例：1000089256）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-12" value="CRM：推送SAP生成销售订单&lt;div&gt;（例：1000089256）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="220" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-14" target="IFCMi06TkUYfGGNpKz3D-16">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IFCMi06TkUYfGGNpKz3D-14" target="IFCMi06TkUYfGGNpKz3D-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-14" value="CRM：销售订单创建完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-14" value="CRM：销售订单创建完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="280" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-16" target="IFCMi06TkUYfGGNpKz3D-18">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IFCMi06TkUYfGGNpKz3D-16" target="IFCMi06TkUYfGGNpKz3D-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-16" value="CRM：创建发车单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-16" value="CRM：创建发车单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="280" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-18" target="IFCMi06TkUYfGGNpKz3D-26">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IFCMi06TkUYfGGNpKz3D-18" target="IFCMi06TkUYfGGNpKz3D-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-18" value="CRM推送SAP生成发车单&lt;div&gt;（例：8000098829）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-18" value="CRM推送SAP生成发车单&lt;div&gt;（例：8000098829）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="340" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-26" target="IFCMi06TkUYfGGNpKz3D-28">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IFCMi06TkUYfGGNpKz3D-26" target="IFCMi06TkUYfGGNpKz3D-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-26" target="IFCMi06TkUYfGGNpKz3D-10">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="IFCMi06TkUYfGGNpKz3D-26" target="IFCMi06TkUYfGGNpKz3D-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-25" value="1、修改销售订单数量重新推送SAP，SAP需要支持更新已有单据，&lt;div&gt;并新单据推送WMS，且WMS也需要支持更新单据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="IFCMi06TkUYfGGNpKz3D-24">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-25" value="1、修改销售订单数量重新推送SAP，SAP需要支持更新已有单据，&lt;div&gt;并新单据推送WMS，且WMS也需要支持更新单据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="IFCMi06TkUYfGGNpKz3D-24" vertex="1" connectable="0">
           <mxGeometry x="0.4901" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-26" value="SAP推送WMS，并在WMS进行分拣、装配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-26" value="SAP推送WMS，并在WMS进行分拣、装配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="400" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-28" target="IFCMi06TkUYfGGNpKz3D-31">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IFCMi06TkUYfGGNpKz3D-28" target="IFCMi06TkUYfGGNpKz3D-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-28" value="WMS回传SAP过账" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-28" value="WMS回传SAP过账" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="460" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-29" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-29" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="560" y="580" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFCMi06TkUYfGGNpKz3D-31" target="IFCMi06TkUYfGGNpKz3D-29">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IFCMi06TkUYfGGNpKz3D-31" target="IFCMi06TkUYfGGNpKz3D-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-31" value="税务开票发货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="IFCMi06TkUYfGGNpKz3D-31" value="税务开票发货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="520" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW7xNSnJN5V7yOlplePb-1" value="2、剩余待发货备件、根据实物到货情况，需要根据该报价单创建新销售订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qW7xNSnJN5V7yOlplePb-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qW7xNSnJN5V7yOlplePb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="220" as="sourcePoint" />
+            <mxPoint x="500" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qW7xNSnJN5V7yOlplePb-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="qW7xNSnJN5V7yOlplePb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="550" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
