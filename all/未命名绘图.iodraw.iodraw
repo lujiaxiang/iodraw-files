@@ -68,7 +68,7 @@
         <mxCell id="Y0o_cz6zVPPM8SC0i69p-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FF3333;strokeColor=#FF3333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y0o_cz6zVPPM8SC0i69p-20" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y0o_cz6zVPPM8SC0i69p-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Y0o_cz6zVPPM8SC0i69p-29">
+        <mxCell id="Y0o_cz6zVPPM8SC0i69p-30" value="实际库存发现差异、因货物损坏或其他原因导致库存不满足客户需求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Y0o_cz6zVPPM8SC0i69p-29">
           <mxGeometry x="-0.1974" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
