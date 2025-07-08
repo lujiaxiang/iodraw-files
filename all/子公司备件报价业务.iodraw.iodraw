@@ -199,10 +199,36 @@
         <mxCell id="-PWgcCwm5zNpLb4TLc_R-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-PWgcCwm5zNpLb4TLc_R-28" target="-PWgcCwm5zNpLb4TLc_R-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-PWgcCwm5zNpLb4TLc_R-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-PWgcCwm5zNpLb4TLc_R-28" target="-PWgcCwm5zNpLb4TLc_R-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="420" />
+              <mxPoint x="720" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-PWgcCwm5zNpLb4TLc_R-23" value="1、撤销WMS中的操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="-PWgcCwm5zNpLb4TLc_R-22">
+          <mxGeometry x="0.4253" y="-1" relative="1" as="geometry">
+            <mxPoint y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-PWgcCwm5zNpLb4TLc_R-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-PWgcCwm5zNpLb4TLc_R-28" target="-PWgcCwm5zNpLb4TLc_R-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="420" />
+              <mxPoint x="780" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-PWgcCwm5zNpLb4TLc_R-25" value="2、CRM发车单中点击取消SAP发车单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=#FF3333;" vertex="1" connectable="0" parent="-PWgcCwm5zNpLb4TLc_R-24">
+          <mxGeometry x="0.3653" y="2" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-PWgcCwm5zNpLb4TLc_R-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-PWgcCwm5zNpLb4TLc_R-28" target="-PWgcCwm5zNpLb4TLc_R-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-PWgcCwm5zNpLb4TLc_R-27" value="3、取消发车后，取消SAP销售订单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="-PWgcCwm5zNpLb4TLc_R-26">
+        <mxCell id="-PWgcCwm5zNpLb4TLc_R-27" value="3、取消发车后，取消SAP销售订单，然后修改销售订单数量重新推送SAP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="-PWgcCwm5zNpLb4TLc_R-26">
           <mxGeometry x="0.4901" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
