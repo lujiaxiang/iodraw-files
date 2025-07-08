@@ -251,7 +251,7 @@
         <mxCell id="-PWgcCwm5zNpLb4TLc_R-33" value="税务开票发货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="520" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-PWgcCwm5zNpLb4TLc_R-34" value="剩余待发货备件、根据实物到货情况，需要根据该报价单创建新销售订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#99FFFF;" vertex="1" parent="1">
+        <mxCell id="-PWgcCwm5zNpLb4TLc_R-34" value="剩余待发货备件、根据实物到货情况，需要根据该报价单创建新销售订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-PWgcCwm5zNpLb4TLc_R-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-PWgcCwm5zNpLb4TLc_R-34">
@@ -261,6 +261,11 @@
             <Array as="points">
               <mxPoint x="260" y="125" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-PWgcCwm5zNpLb4TLc_R-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="-PWgcCwm5zNpLb4TLc_R-36">
+          <mxGeometry x="-0.0571" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-PWgcCwm5zNpLb4TLc_R-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-PWgcCwm5zNpLb4TLc_R-12" target="-PWgcCwm5zNpLb4TLc_R-34">
