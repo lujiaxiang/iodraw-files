@@ -73,7 +73,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y0o_cz6zVPPM8SC0i69p-30" value="实际库存发现差异、因货物损坏或其他原因导致库存不满足客户需求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Y0o_cz6zVPPM8SC0i69p-29">
+        <mxCell id="Y0o_cz6zVPPM8SC0i69p-30" value="4、根据实际数量新建报价单，随后重新创建销售订单与发车单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Y0o_cz6zVPPM8SC0i69p-29">
           <mxGeometry x="-0.1974" y="1" relative="1" as="geometry">
             <mxPoint x="-181" y="-1" as="offset" />
           </mxGeometry>
