@@ -338,14 +338,6 @@
         <mxCell id="IFCMi06TkUYfGGNpKz3D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IFCMi06TkUYfGGNpKz3D-26" target="IFCMi06TkUYfGGNpKz3D-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="IFCMi06TkUYfGGNpKz3D-26" target="IFCMi06TkUYfGGNpKz3D-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IFCMi06TkUYfGGNpKz3D-25" value="1、修改销售订单数量重新推送SAP，SAP需要支持更新已有单据，&lt;div&gt;并新单据推送WMS，且WMS也需要支持更新单据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="IFCMi06TkUYfGGNpKz3D-24" vertex="1" connectable="0">
-          <mxGeometry x="0.4901" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IFCMi06TkUYfGGNpKz3D-26" value="SAP推送WMS，并在WMS进行分拣、装配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="400" width="140" height="40" as="geometry" />
         </mxCell>
@@ -374,12 +366,6 @@
             <Array as="points">
               <mxPoint x="260" y="125" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qW7xNSnJN5V7yOlplePb-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="qW7xNSnJN5V7yOlplePb-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="220" as="sourcePoint" />
-            <mxPoint x="550" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
