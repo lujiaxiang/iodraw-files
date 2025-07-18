@@ -22,7 +22,7 @@
         <mxCell id="8I8rAoPHbsrX2f2LkLU8-4" value="销售员制作报价单，填写基本信息&lt;br&gt;Salesperson prepares quotation, fill in basic information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="360" width="215" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8I8rAoPHbsrX2f2LkLU8-10" value="查询物料成本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8I8rAoPHbsrX2f2LkLU8-10" value="查询SAP物料成本&lt;div&gt;Query SAP materials Cost&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="450" width="215" height="60" as="geometry" />
         </mxCell>
       </root>
