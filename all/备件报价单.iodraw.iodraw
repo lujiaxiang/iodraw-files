@@ -19,6 +19,9 @@
         <mxCell id="8I8rAoPHbsrX2f2LkLU8-4" value="销售员制作报价单&lt;br&gt;Salesperson prepares quotation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8I8rAoPHbsrX2f2LkLU8-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
