@@ -16,10 +16,13 @@
         <mxCell id="8I8rAoPHbsrX2f2LkLU8-2" value="接收客户需求&lt;div&gt;Receive customer needs&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="270" width="215" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8I8rAoPHbsrX2f2LkLU8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8I8rAoPHbsrX2f2LkLU8-4" target="8I8rAoPHbsrX2f2LkLU8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8I8rAoPHbsrX2f2LkLU8-4" value="销售员制作报价单，填写基本信息&lt;br&gt;Salesperson prepares quotation, fill in basic information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="360" width="215" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8I8rAoPHbsrX2f2LkLU8-10" value="销售员制作报价单，填写基本信息&lt;br&gt;Salesperson prepares quotation, fill in basic information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8I8rAoPHbsrX2f2LkLU8-10" value="查询物料成本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="450" width="215" height="60" as="geometry" />
         </mxCell>
       </root>
