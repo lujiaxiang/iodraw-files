@@ -31,6 +31,9 @@
         <mxCell id="8I8rAoPHbsrX2f2LkLU8-12" value="查询SAP税&lt;div&gt;Query SAP Taxs&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="540" width="215" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8I8rAoPHbsrX2f2LkLU8-15" value="保存单据&lt;div&gt;Save order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="630" width="215" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
