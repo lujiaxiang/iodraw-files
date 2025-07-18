@@ -46,6 +46,9 @@
         <mxCell id="8I8rAoPHbsrX2f2LkLU8-20" value="保存单据&lt;div&gt;Save order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="855" y="610" width="215" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8I8rAoPHbsrX2f2LkLU8-22" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
