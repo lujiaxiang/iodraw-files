@@ -14,21 +14,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-1" value="制作服务单&lt;div&gt;Make Server Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="100" width="121.25" height="40" as="geometry" />
+          <mxGeometry x="100" y="80" width="121.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-4" target="bTQ6CgPQhquAjHJwS30T-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bTQ6CgPQhquAjHJwS30T-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bTQ6CgPQhquAjHJwS30T-7">
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-8" value="Warranty" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bTQ6CgPQhquAjHJwS30T-7">
           <mxGeometry x="0.0103" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-4" value="Type" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140.62" y="160" width="40" height="40" as="geometry" />
+          <mxGeometry x="140.62" y="140" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-6" value="制作索赔单&lt;div&gt;Make Warranty Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="240" width="121.25" height="40" as="geometry" />
+          <mxGeometry x="100" y="220" width="121.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
