@@ -22,7 +22,7 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-4" value="Type" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140.62" y="170" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bTQ6CgPQhquAjHJwS30T-6" value="制作服务单&lt;div&gt;Make Server Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-6" value="制作索赔单&lt;div&gt;Make Warranty Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="250" width="121.25" height="40" as="geometry" />
         </mxCell>
       </root>
