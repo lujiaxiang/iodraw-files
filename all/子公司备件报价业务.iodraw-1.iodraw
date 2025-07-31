@@ -33,7 +33,7 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-6" value="制作索赔单&lt;div&gt;Make Warranty Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="220" width="121.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bTQ6CgPQhquAjHJwS30T-9" value="索赔单审批，服务经理创建向客户的免费订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-9" value="索赔单审批，服务经理创建向客户的免费订单&lt;div&gt;Warranty Order Approval,service manager creates free sale order to customer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="310" width="121.25" height="110" as="geometry" />
         </mxCell>
       </root>
