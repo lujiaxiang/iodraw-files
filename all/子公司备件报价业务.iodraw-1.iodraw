@@ -51,8 +51,11 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-13" value="依据销售订单创建发车单&lt;div&gt;According SO，the user create the delivery order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="440" width="140.63" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bTQ6CgPQhquAjHJwS30T-16" value="Type" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="420" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-18" value="依据销售订单创建发车单&lt;div&gt;According SO，the user create the delivery order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="450" width="140.63" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
