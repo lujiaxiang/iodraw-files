@@ -63,11 +63,14 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-18" value="主机厂节点创建采购需求单&lt;div&gt;OEM node creation purchase request form&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="359.37" y="490" width="140.63" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-20" target="bTQ6CgPQhquAjHJwS30T-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-20" value="&lt;div&gt;采购需求单推送SAP生成进出口对主机厂的STO单&lt;/div&gt;&lt;div&gt;The PR order is pushed to SAP to generate the STO order from XCMG International to the OEM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="359.37" y="590" width="140.63" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bTQ6CgPQhquAjHJwS30T-22" value="&lt;div&gt;采购需求单推送SAP生成进出口对主机厂的STO单&lt;/div&gt;&lt;div&gt;The PR order is pushed to SAP to generate the STO order from XCMG International to the OEM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="369.37" y="600" width="140.63" height="100" as="geometry" />
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-22" value="SAP推送到主机厂PMS系统生成装箱信息&lt;div&gt;SAP pushes to the OEM PMS system to generate packing information&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="359.37" y="720" width="140.63" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
