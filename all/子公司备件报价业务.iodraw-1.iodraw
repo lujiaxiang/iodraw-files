@@ -79,10 +79,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-24" value="CRM中生成备件合同&lt;div&gt;Generate spare parts contract in CRM&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359.37" y="800" width="140.63" height="100" as="geometry" />
+          <mxGeometry x="359.37" y="800" width="140.63" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bTQ6CgPQhquAjHJwS30T-25" value="根据备件合同生成备件发车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359.37" y="910" width="140.63" height="100" as="geometry" />
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-25" value="根据备件合同生成备件发车&lt;div&gt;Generate spare parts shipment based on spare parts contract&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="359.37" y="910" width="140.63" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
