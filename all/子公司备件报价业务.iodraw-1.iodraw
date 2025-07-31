@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-0" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="145.62" y="30" width="30" height="30" as="geometry" />
+          <mxGeometry x="304.99" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-1" target="bTQ6CgPQhquAjHJwS30T-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-1" value="制作服务单&lt;div&gt;Make Server Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="80" width="121.25" height="40" as="geometry" />
+          <mxGeometry x="259.37" y="60" width="121.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-4" target="bTQ6CgPQhquAjHJwS30T-6">
           <mxGeometry relative="1" as="geometry" />
@@ -25,16 +25,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-4" value="Type" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140.62" y="140" width="40" height="40" as="geometry" />
+          <mxGeometry x="299.99" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-6" target="bTQ6CgPQhquAjHJwS30T-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-6" value="制作索赔单&lt;div&gt;Make Warranty Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="220" width="121.25" height="40" as="geometry" />
+          <mxGeometry x="259.37" y="200" width="121.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-9" value="索赔单审批，服务经理创建向客户的免费订单&lt;div&gt;Warranty Order Approval,service manager creates free sale order to customer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="310" width="121.25" height="110" as="geometry" />
+          <mxGeometry x="250" y="290" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
