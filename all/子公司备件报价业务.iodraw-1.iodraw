@@ -120,7 +120,7 @@
           <mxGeometry x="329.68" y="1100" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-35" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate delivery note&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="650" width="140.63" height="80" as="geometry" />
+          <mxGeometry x="140" y="660" width="140.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-36" target="bTQ6CgPQhquAjHJwS30T-13">
           <mxGeometry relative="1" as="geometry" />
@@ -128,8 +128,8 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-36" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate sales order&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="139.37" y="430" width="140.63" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bTQ6CgPQhquAjHJwS30T-40" value="&lt;div&gt;推送WMS拣配发货&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="750" width="140.63" height="80" as="geometry" />
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-40" value="&lt;div&gt;推送WMS拣配发货&lt;/div&gt;&lt;div&gt;Push WMS picking and delivery&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="139.37" y="790" width="140.63" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
