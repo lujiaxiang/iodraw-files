@@ -116,8 +116,8 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-35" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate delivery note&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="650" width="140.63" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bTQ6CgPQhquAjHJwS30T-36" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate delivery note&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="660" width="140.63" height="80" as="geometry" />
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-36" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate sales order&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="139.37" y="430" width="140.63" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
