@@ -54,6 +54,11 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-16" target="bTQ6CgPQhquAjHJwS30T-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bTQ6CgPQhquAjHJwS30T-19">
+          <mxGeometry x="-0.1563" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="410" width="40" height="40" as="geometry" />
         </mxCell>
@@ -82,7 +87,7 @@
           <mxGeometry x="359.37" y="800" width="140.63" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-25" value="根据备件合同生成备件发车&lt;div&gt;Generate spare parts shipment based on spare parts contract&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359.37" y="910" width="140.63" height="90" as="geometry" />
+          <mxGeometry x="359.37" y="880" width="140.63" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
