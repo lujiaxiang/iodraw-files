@@ -36,6 +36,9 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-6" value="制作索赔单&lt;div&gt;Make Warranty Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="259.37" y="200" width="121.25" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-9" target="bTQ6CgPQhquAjHJwS30T-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-9" value="索赔单审批，服务经理创建向客户的免费订单&lt;div&gt;Warranty Order Approval,service manager creates free sale order to customer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="290" width="140" height="100" as="geometry" />
         </mxCell>
@@ -44,6 +47,9 @@
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-11" value="索赔单审批，质量经理判断是否需要主机厂审核&lt;span style=&quot;background-color: initial;&quot;&gt;Warranty Order Approval,quality manager determines whether OEM audit is required&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="290" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-13" target="bTQ6CgPQhquAjHJwS30T-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-13" value="依据销售订单创建发车单&lt;div&gt;According SO，the user create the delivery order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="545" width="140.63" height="80" as="geometry" />
@@ -116,8 +122,14 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-35" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate delivery note&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="650" width="140.63" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-36" target="bTQ6CgPQhquAjHJwS30T-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-36" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate sales order&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="139.37" y="430" width="140.63" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-40" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate delivery note&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="750" width="140.63" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
