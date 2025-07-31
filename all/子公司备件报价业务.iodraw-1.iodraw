@@ -119,6 +119,9 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-30" value="备件发车推送SAP，生成巴西制作对国际事业总部的STO单&lt;div&gt;Spare parts shipment is pushed to SAP to generate STO orders from Brazilian production to international business headquarters&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="329.68" y="1100" width="200" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-35" target="bTQ6CgPQhquAjHJwS30T-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-35" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate delivery note&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="660" width="140.63" height="80" as="geometry" />
         </mxCell>
@@ -130,6 +133,9 @@
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-40" value="&lt;div&gt;推送WMS拣配发货&lt;/div&gt;&lt;div&gt;Push WMS picking and delivery&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="139.37" y="790" width="140.63" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-42" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="194.68" y="940" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
