@@ -63,7 +63,7 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-18" value="主机厂节点创建采购需求单&lt;div&gt;OEM node creation purchase request form&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="460" width="140.63" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bTQ6CgPQhquAjHJwS30T-20" value="主机厂节点创建采购需求单&lt;div&gt;OEM node creation purchase request form&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-20" value="&lt;div&gt;采购需求单推送SAP生成采购申请&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="570" width="140.63" height="80" as="geometry" />
         </mxCell>
       </root>
