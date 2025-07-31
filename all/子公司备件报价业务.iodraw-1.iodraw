@@ -86,14 +86,20 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-24" value="CRM中生成备件合同&lt;div&gt;Generate spare parts contract in CRM&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="359.37" y="870" width="140.63" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-25" target="bTQ6CgPQhquAjHJwS30T-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-25" value="根据备件合同生成备件发车&lt;div&gt;Generate spare parts shipment based on spare parts contract&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="359.37" y="980" width="140.63" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-29" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="1250" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-30" target="bTQ6CgPQhquAjHJwS30T-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-30" value="备件发车推送SAP，生成巴西制作对国际事业总部的STO单&lt;div&gt;Spare parts shipment is pushed to SAP to generate STO orders from Brazilian production to international business headquarters&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="1110" width="140.63" height="90" as="geometry" />
+          <mxGeometry x="329.68" y="1100" width="200" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
