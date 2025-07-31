@@ -42,6 +42,9 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-9" value="索赔单审批，服务经理创建向客户的免费订单&lt;div&gt;Warranty Order Approval,service manager creates free sale order to customer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="290" width="140" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-11" target="bTQ6CgPQhquAjHJwS30T-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-11" value="索赔单审批，质量经理判断是否需要主机厂审核&lt;span style=&quot;background-color: initial;&quot;&gt;Warranty Order Approval,quality manager determines whether OEM audit is required&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="290" width="140" height="100" as="geometry" />
         </mxCell>
@@ -49,7 +52,7 @@
           <mxGeometry x="140" y="440" width="140.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-16" value="Type" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="309.99" y="130" width="40" height="40" as="geometry" />
+          <mxGeometry x="410" y="420" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
