@@ -78,11 +78,11 @@
         <mxCell id="bTQ6CgPQhquAjHJwS30T-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bTQ6CgPQhquAjHJwS30T-24" target="bTQ6CgPQhquAjHJwS30T-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bTQ6CgPQhquAjHJwS30T-24" value="SAP推送到主机厂PMS系统生成装箱信息&lt;div&gt;SAP pushes to the OEM PMS system to generate packing information&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bTQ6CgPQhquAjHJwS30T-24" value="CRM中生成备件合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="359.37" y="800" width="140.63" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bTQ6CgPQhquAjHJwS30T-25" value="SAP推送到主机厂PMS系统生成装箱信息&lt;div&gt;SAP pushes to the OEM PMS system to generate packing information&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="970" width="140.63" height="100" as="geometry" />
+          <mxGeometry x="359.37" y="910" width="140.63" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
