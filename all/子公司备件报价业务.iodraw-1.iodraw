@@ -144,7 +144,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kl4jIrKkUUb-5B5xHi1K" name="第 2 页">
-    <mxGraphModel dx="1034" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,8 +228,14 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-52" value="&lt;div&gt;根据销售订单创建发车&lt;/div&gt;&lt;div&gt;Create shipment based on sales order&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="550" width="140.63" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="rXblNxoAwnHjerRN3nZp-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-54" target="rXblNxoAwnHjerRN3nZp-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-54" value="&lt;div&gt;发送备件给客户&lt;/div&gt;&lt;div&gt;Send spare parts to customers&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="660" width="140.63" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rXblNxoAwnHjerRN3nZp-56" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="445.32" y="770" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
