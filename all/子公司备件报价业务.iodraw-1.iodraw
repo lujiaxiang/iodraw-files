@@ -172,43 +172,14 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-12" value="索赔单审批，服务经理创建向客户的免费订单&lt;div&gt;Warranty Order Approval,service manager creates free sale order to customer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="139.37" y="320" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-14" target="rXblNxoAwnHjerRN3nZp-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-14" value="索赔单审批，质量经理判断是否需要主机厂审核&lt;span style=&quot;background-color: initial;&quot;&gt;Warranty Order Approval,quality manager determines whether OEM audit is required&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="140" height="100" as="geometry" />
+          <mxGeometry x="360" y="320" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-16" target="rXblNxoAwnHjerRN3nZp-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-16" value="依据销售订单创建发车单&lt;div&gt;According SO，the user create the delivery order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="545" width="140.63" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-21" target="rXblNxoAwnHjerRN3nZp-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-18" value="agree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXblNxoAwnHjerRN3nZp-17">
-          <mxGeometry x="-0.1563" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-21" target="rXblNxoAwnHjerRN3nZp-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545" y="430" as="sourcePoint" />
-            <mxPoint x="540" y="1265" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="430" />
-              <mxPoint x="570" y="1265" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-20" value="reject" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXblNxoAwnHjerRN3nZp-19">
-          <mxGeometry x="-0.6981" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="410" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-23" target="rXblNxoAwnHjerRN3nZp-25">
           <mxGeometry relative="1" as="geometry" />
