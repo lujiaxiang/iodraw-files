@@ -225,8 +225,8 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-52" value="&lt;div&gt;根据销售订单创建发车&lt;/div&gt;&lt;div&gt;Create shipment based on sales order&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="550" width="140.63" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-54" value="&lt;div&gt;根据销售订单创建发车&lt;/div&gt;&lt;div&gt;Create shipment based on sales order&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="560" width="140.63" height="80" as="geometry" />
+        <mxCell id="rXblNxoAwnHjerRN3nZp-54" value="&lt;div&gt;发送给客户&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="660" width="140.63" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
