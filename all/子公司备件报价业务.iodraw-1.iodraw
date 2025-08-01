@@ -157,7 +157,7 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-4" target="rXblNxoAwnHjerRN3nZp-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-4" value="制作服务单&lt;div&gt;Make Server Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rXblNxoAwnHjerRN3nZp-4" value="接收技改单&lt;div&gt;Receive technical improvement orders&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259.37" y="60" width="121.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-7" target="rXblNxoAwnHjerRN3nZp-10">
