@@ -175,8 +175,10 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-14" value="索赔单审批，质量经理判断是否需要主机厂审核&lt;span style=&quot;background-color: initial;&quot;&gt;Warranty Order Approval,quality manager determines whether OEM audit is required&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389.68" y="320" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-16" target="rXblNxoAwnHjerRN3nZp-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rXblNxoAwnHjerRN3nZp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170.9000000000001" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-16" value="服务人员领取备件及进行维修&lt;div&gt;Service personnel collect spare parts and perform repairs&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100.63" y="545" width="140.63" height="80" as="geometry" />
@@ -224,26 +226,14 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-34" value="备件发车推送SAP，生成巴西制作对国际事业总部的STO单&lt;div&gt;Spare parts shipment is pushed to SAP to generate STO orders from Brazilian production to international business headquarters&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329.68" y="1100" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-36" target="rXblNxoAwnHjerRN3nZp-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-36" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate delivery note&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100.63" y="660" width="140.63" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-38" target="rXblNxoAwnHjerRN3nZp-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-38" value="点击“领用出库”后推送WMS&lt;div&gt;Click &quot;Receive and Ship&quot; and push to WMS&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="430" width="140.63" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-40" target="rXblNxoAwnHjerRN3nZp-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-40" value="&lt;div&gt;推送WMS拣配发货&lt;/div&gt;&lt;div&gt;Push WMS picking and delivery&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="790" width="140.63" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-41" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="155.31" y="940" width="30" height="30" as="geometry" />
+          <mxGeometry x="155.95" y="710" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-43" target="rXblNxoAwnHjerRN3nZp-12">
           <mxGeometry relative="1" as="geometry" />
