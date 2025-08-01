@@ -216,10 +216,13 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-49" value="创建备件领用单&lt;div&gt;Create spare parts requisition&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="320" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="rXblNxoAwnHjerRN3nZp-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-50" target="rXblNxoAwnHjerRN3nZp-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-50" value="&lt;div&gt;点击“创建子公司备件销售订单”&lt;/div&gt;&lt;div&gt;Click &quot;Create Subsidiary Spare Parts Sales Order&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389.37" y="430" width="140.63" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-52" value="&lt;div&gt;根据销售订单创建发车&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rXblNxoAwnHjerRN3nZp-52" value="&lt;div&gt;根据销售订单创建发车&lt;/div&gt;&lt;div&gt;Create shipment based on sales order&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="550" width="140.63" height="80" as="geometry" />
         </mxCell>
       </root>
