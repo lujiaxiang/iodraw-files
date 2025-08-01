@@ -178,7 +178,7 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-16" target="rXblNxoAwnHjerRN3nZp-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-16" value="依据销售订单创建发车单&lt;div&gt;According SO，the user create the delivery order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rXblNxoAwnHjerRN3nZp-16" value="服务人员领取备件及进行维修&lt;div&gt;Service personnel collect spare parts and perform repairs&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100.63" y="545" width="140.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-23" target="rXblNxoAwnHjerRN3nZp-25">
