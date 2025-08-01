@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-12" value="索赔单审批，服务经理创建向客户的免费订单&lt;div&gt;Warranty Order Approval,service manager creates free sale order to customer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="290" width="140" height="100" as="geometry" />
+          <mxGeometry x="139.37" y="320" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-14" target="rXblNxoAwnHjerRN3nZp-21">
           <mxGeometry relative="1" as="geometry" />
@@ -269,6 +269,9 @@
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-41" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="194.68" y="940" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXblNxoAwnHjerRN3nZp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-43" target="rXblNxoAwnHjerRN3nZp-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-43" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="299.99" y="230" width="40" height="40" as="geometry" />
