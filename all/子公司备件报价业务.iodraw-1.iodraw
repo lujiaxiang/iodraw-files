@@ -172,10 +172,7 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-12" value="创建备件领用单&lt;div&gt;Create spare parts requisition&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="320" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-14" value="索赔单审批，质量经理判断是否需要主机厂审核&lt;span style=&quot;background-color: initial;&quot;&gt;Warranty Order Approval,quality manager determines whether OEM audit is required&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389.68" y="320" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-16">
+        <mxCell id="rXblNxoAwnHjerRN3nZp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-16" target="rXblNxoAwnHjerRN3nZp-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170.9000000000001" y="660" as="targetPoint" />
           </mxGeometry>
@@ -183,17 +180,16 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-16" value="服务人员领取备件及进行维修&lt;div&gt;Service personnel collect spare parts and perform repairs&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100.63" y="545" width="140.63" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-23" target="rXblNxoAwnHjerRN3nZp-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rXblNxoAwnHjerRN3nZp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.365" y="570" as="sourcePoint" />
+            <mxPoint x="459.365" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-23" value="主机厂节点创建采购需求单&lt;div&gt;OEM node creation purchase request form&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389.05" y="490" width="140.63" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-25" target="rXblNxoAwnHjerRN3nZp-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-25" value="&lt;div&gt;采购需求单推送SAP生成进出口对主机厂的STO单&lt;/div&gt;&lt;div&gt;The PR order is pushed to SAP to generate the STO order from XCMG International to the OEM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389.05" y="600" width="140.63" height="100" as="geometry" />
+        <mxCell id="rXblNxoAwnHjerRN3nZp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="rXblNxoAwnHjerRN3nZp-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.4000000000001" y="700" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-27" target="rXblNxoAwnHjerRN3nZp-29">
           <mxGeometry relative="1" as="geometry" />
@@ -233,7 +229,7 @@
           <mxGeometry x="100" y="430" width="140.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-41" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="155.95" y="710" width="30" height="30" as="geometry" />
+          <mxGeometry x="155.95" y="670" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-43" target="rXblNxoAwnHjerRN3nZp-12">
           <mxGeometry relative="1" as="geometry" />
@@ -243,8 +239,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-43" target="rXblNxoAwnHjerRN3nZp-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rXblNxoAwnHjerRN3nZp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.68000000000006" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-48" value="outside the factory" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXblNxoAwnHjerRN3nZp-46">
           <mxGeometry x="-0.03" relative="1" as="geometry">
