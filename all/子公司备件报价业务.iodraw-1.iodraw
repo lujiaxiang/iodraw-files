@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-12" value="创建备件领用单&lt;div&gt;Create spare parts requisition&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="140" height="100" as="geometry" />
+          <mxGeometry x="100" y="320" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-14" value="索赔单审批，质量经理判断是否需要主机厂审核&lt;span style=&quot;background-color: initial;&quot;&gt;Warranty Order Approval,quality manager determines whether OEM audit is required&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389.68" y="320" width="140" height="100" as="geometry" />
@@ -233,7 +233,7 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-38" target="rXblNxoAwnHjerRN3nZp-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXblNxoAwnHjerRN3nZp-38" value="推送SAP生成交货单&lt;div&gt;Push SAP to generate sales order&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rXblNxoAwnHjerRN3nZp-38" value="点击“领用出库”后推送WMS&lt;div&gt;Click &quot;Receive and Ship&quot; and push to WMS&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="430" width="140.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-40" target="rXblNxoAwnHjerRN3nZp-41">
