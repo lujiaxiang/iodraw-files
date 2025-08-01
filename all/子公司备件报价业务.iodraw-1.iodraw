@@ -160,6 +160,9 @@
         <mxCell id="rXblNxoAwnHjerRN3nZp-4" value="接收技改单&lt;div&gt;Receive technical improvement orders&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259.37" y="60" width="121.25" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rXblNxoAwnHjerRN3nZp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXblNxoAwnHjerRN3nZp-10" target="rXblNxoAwnHjerRN3nZp-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-10" value="制作索赔单&lt;div&gt;Make&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;technical transformation service orders&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259.37" y="140" width="121.25" height="70" as="geometry" />
         </mxCell>
@@ -266,6 +269,9 @@
         </mxCell>
         <mxCell id="rXblNxoAwnHjerRN3nZp-41" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="194.68" y="940" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXblNxoAwnHjerRN3nZp-43" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299.99" y="230" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
