@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3tWUtV70hOD-2GlsrZ7p-0" value="Sale Progess" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="53" y="50" width="740" height="240" as="geometry" />
+          <mxGeometry x="44" y="360" width="740" height="240" as="geometry" />
         </mxCell>
         <mxCell id="3tWUtV70hOD-2GlsrZ7p-1" value="Sale Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="3tWUtV70hOD-2GlsrZ7p-0">
           <mxGeometry x="20" width="720" height="120" as="geometry" />
@@ -91,7 +91,7 @@
         <mxCell id="3tWUtV70hOD-2GlsrZ7p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tWUtV70hOD-2GlsrZ7p-1" source="3tWUtV70hOD-2GlsrZ7p-6" target="3tWUtV70hOD-2GlsrZ7p-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3tWUtV70hOD-2GlsrZ7p-6" value="Fill the net price back into the contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3tWUtV70hOD-2GlsrZ7p-1">
+        <mxCell id="3tWUtV70hOD-2GlsrZ7p-6" value="Fill the sales price back into the contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3tWUtV70hOD-2GlsrZ7p-1">
           <mxGeometry x="227" y="35" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3tWUtV70hOD-2GlsrZ7p-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tWUtV70hOD-2GlsrZ7p-1" source="3tWUtV70hOD-2GlsrZ7p-8" target="3tWUtV70hOD-2GlsrZ7p-11">
