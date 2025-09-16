@@ -19,6 +19,9 @@
         <mxCell id="twFZDK1VKZwnkP3VVlu0-7" value="Confirm the sale price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
           <mxGeometry x="110" y="35" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="twFZDK1VKZwnkP3VVlu0-12" value="Fill the net price back into the contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
+          <mxGeometry x="270" y="35" width="120" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-4" value="Tax Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
           <mxGeometry x="20" y="120" width="720" height="120" as="geometry">
             <mxRectangle x="20" y="120" width="720" height="30" as="alternateBounds" />
