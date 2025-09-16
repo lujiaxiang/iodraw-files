@@ -86,7 +86,7 @@
           <mxGeometry x="37" y="45" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3tWUtV70hOD-2GlsrZ7p-4" value="Confirm the sales price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3tWUtV70hOD-2GlsrZ7p-1">
-          <mxGeometry x="87" y="35" width="120" height="50" as="geometry" />
+          <mxGeometry x="87" y="35" width="133" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3tWUtV70hOD-2GlsrZ7p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tWUtV70hOD-2GlsrZ7p-1" source="3tWUtV70hOD-2GlsrZ7p-6" target="3tWUtV70hOD-2GlsrZ7p-8">
           <mxGeometry relative="1" as="geometry" />
@@ -119,17 +119,8 @@
             <mxRectangle x="20" y="120" width="720" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3tWUtV70hOD-2GlsrZ7p-14" value="calculate the net price manually" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3tWUtV70hOD-2GlsrZ7p-13">
-          <mxGeometry x="87" y="35" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="3tWUtV70hOD-2GlsrZ7p-15" value="Modify the net price manually" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3tWUtV70hOD-2GlsrZ7p-13">
           <mxGeometry x="488.5" y="35" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3tWUtV70hOD-2GlsrZ7p-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tWUtV70hOD-2GlsrZ7p-0" source="3tWUtV70hOD-2GlsrZ7p-4" target="3tWUtV70hOD-2GlsrZ7p-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3tWUtV70hOD-2GlsrZ7p-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=0.974;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3tWUtV70hOD-2GlsrZ7p-0" source="3tWUtV70hOD-2GlsrZ7p-14" target="3tWUtV70hOD-2GlsrZ7p-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3tWUtV70hOD-2GlsrZ7p-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tWUtV70hOD-2GlsrZ7p-0" source="3tWUtV70hOD-2GlsrZ7p-11" target="3tWUtV70hOD-2GlsrZ7p-15">
           <mxGeometry relative="1" as="geometry" />
