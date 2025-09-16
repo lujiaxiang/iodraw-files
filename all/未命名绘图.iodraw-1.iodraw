@@ -14,16 +14,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-6" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
-          <mxGeometry x="60" y="45" width="30" height="30" as="geometry" />
+          <mxGeometry x="37" y="45" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-7" value="Confirm the sale price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
-          <mxGeometry x="110" y="35" width="120" height="50" as="geometry" />
+          <mxGeometry x="87" y="35" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="twFZDK1VKZwnkP3VVlu0-3" source="twFZDK1VKZwnkP3VVlu0-12" target="twFZDK1VKZwnkP3VVlu0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-12" value="Fill the net price back into the contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
-          <mxGeometry x="270" y="35" width="120" height="50" as="geometry" />
+          <mxGeometry x="227" y="35" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-14" value="SAP calculates the sales price based on the net price" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
           <mxGeometry x="430" y="35" width="120" height="50" as="geometry" />
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-9" value="calculate the net price manually" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-4">
-          <mxGeometry x="110" y="30" width="120" height="50" as="geometry" />
+          <mxGeometry x="87" y="35" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-5" value="Risk Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
           <mxGeometry x="20" y="240" width="720" height="120" as="geometry" />
