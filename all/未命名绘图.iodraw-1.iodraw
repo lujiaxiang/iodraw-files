@@ -26,7 +26,7 @@
           <mxGeometry x="270" y="35" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-14" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
-          <mxGeometry x="470" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="35" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-4" value="Tax Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
           <mxGeometry x="20" y="120" width="720" height="120" as="geometry">
