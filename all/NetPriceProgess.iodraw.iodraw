@@ -108,7 +108,7 @@
         <mxCell id="3tWUtV70hOD-2GlsrZ7p-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tWUtV70hOD-2GlsrZ7p-13" source="3tWUtV70hOD-2GlsrZ7p-11" target="3tWUtV70hOD-2GlsrZ7p-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3tWUtV70hOD-2GlsrZ7p-23" value="Yes&lt;div&gt;net price and taxs is correct&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3tWUtV70hOD-2GlsrZ7p-22">
+        <mxCell id="3tWUtV70hOD-2GlsrZ7p-23" value="Yes&lt;div&gt;net price and taxes are correct&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3tWUtV70hOD-2GlsrZ7p-22">
           <mxGeometry x="-0.2086" y="-1" relative="1" as="geometry">
             <mxPoint x="14" y="-16" as="offset" />
           </mxGeometry>
