@@ -26,7 +26,10 @@
           <mxGeometry x="227" y="35" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-14" value="SAP calculates the sales price based on the net price" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
-          <mxGeometry x="430" y="35" width="120" height="50" as="geometry" />
+          <mxGeometry x="367" y="35" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="twFZDK1VKZwnkP3VVlu0-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
+          <mxGeometry x="527" y="60" width="43" height="40" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-4" value="Tax Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
           <mxGeometry x="20" y="120" width="720" height="120" as="geometry">
