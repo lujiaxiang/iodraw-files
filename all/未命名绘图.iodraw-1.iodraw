@@ -7,7 +7,7 @@
         <mxCell id="twFZDK1VKZwnkP3VVlu0-2" value="Sale Progess" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="40" width="740" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="twFZDK1VKZwnkP3VVlu0-3" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
+        <mxCell id="twFZDK1VKZwnkP3VVlu0-3" value="Sale Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
           <mxGeometry x="20" width="720" height="120" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-4" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
