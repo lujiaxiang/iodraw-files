@@ -11,7 +11,9 @@
           <mxGeometry x="20" width="720" height="120" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-4" value="Tax Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
-          <mxGeometry x="20" y="120" width="720" height="120" as="geometry" />
+          <mxGeometry x="20" y="120" width="720" height="120" as="geometry">
+            <mxRectangle x="20" y="120" width="720" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-5" value="Risk Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
           <mxGeometry x="20" y="240" width="720" height="120" as="geometry" />
