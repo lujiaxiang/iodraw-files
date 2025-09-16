@@ -48,6 +48,9 @@
         <mxCell id="twFZDK1VKZwnkP3VVlu0-9" value="calculate the net price manually" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-4">
           <mxGeometry x="87" y="35" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="twFZDK1VKZwnkP3VVlu0-20" value="Modify the net price manually" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-4">
+          <mxGeometry x="488.5" y="35" width="120" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-5" value="Risk Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
           <mxGeometry x="20" y="240" width="720" height="120" as="geometry" />
         </mxCell>
@@ -56,9 +59,6 @@
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="twFZDK1VKZwnkP3VVlu0-2" source="twFZDK1VKZwnkP3VVlu0-9" target="twFZDK1VKZwnkP3VVlu0-12">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="twFZDK1VKZwnkP3VVlu0-20" value="calculate the net price manually" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="205" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
