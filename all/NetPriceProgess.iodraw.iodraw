@@ -119,19 +119,10 @@
             <mxRectangle x="20" y="120" width="720" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3tWUtV70hOD-2GlsrZ7p-15" value="Modify the net price manually" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3tWUtV70hOD-2GlsrZ7p-13">
-          <mxGeometry x="488.5" y="35" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3tWUtV70hOD-2GlsrZ7p-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tWUtV70hOD-2GlsrZ7p-0" source="3tWUtV70hOD-2GlsrZ7p-11" target="3tWUtV70hOD-2GlsrZ7p-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3tWUtV70hOD-2GlsrZ7p-19" value="No different from the expexcted sales price&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3tWUtV70hOD-2GlsrZ7p-18">
-          <mxGeometry x="-0.2887" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="3tWUtV70hOD-2GlsrZ7p-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3tWUtV70hOD-2GlsrZ7p-0" source="3tWUtV70hOD-2GlsrZ7p-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="568.5000000000002" y="155" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3tWUtV70hOD-2GlsrZ7p-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.564;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3tWUtV70hOD-2GlsrZ7p-0" source="3tWUtV70hOD-2GlsrZ7p-15" target="3tWUtV70hOD-2GlsrZ7p-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
