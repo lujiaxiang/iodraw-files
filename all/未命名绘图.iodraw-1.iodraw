@@ -25,7 +25,7 @@
         <mxCell id="twFZDK1VKZwnkP3VVlu0-12" value="Fill the net price back into the contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
           <mxGeometry x="270" y="35" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="twFZDK1VKZwnkP3VVlu0-14" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
+        <mxCell id="twFZDK1VKZwnkP3VVlu0-14" value="SAP calculates the sales price based on the net price" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-3">
           <mxGeometry x="430" y="35" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-4" value="Tax Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
