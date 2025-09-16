@@ -27,6 +27,9 @@
         <mxCell id="twFZDK1VKZwnkP3VVlu0-5" value="Risk Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
           <mxGeometry x="20" y="240" width="720" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="twFZDK1VKZwnkP3VVlu0-9" value="Confirm the sale price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="85" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
