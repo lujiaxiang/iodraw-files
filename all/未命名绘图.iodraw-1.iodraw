@@ -30,6 +30,9 @@
         <mxCell id="twFZDK1VKZwnkP3VVlu0-5" value="Risk Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
           <mxGeometry x="20" y="240" width="720" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="twFZDK1VKZwnkP3VVlu0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="twFZDK1VKZwnkP3VVlu0-2" source="twFZDK1VKZwnkP3VVlu0-7" target="twFZDK1VKZwnkP3VVlu0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
