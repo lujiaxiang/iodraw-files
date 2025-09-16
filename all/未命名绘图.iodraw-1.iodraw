@@ -34,7 +34,7 @@
         <mxCell id="twFZDK1VKZwnkP3VVlu0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="twFZDK1VKZwnkP3VVlu0-3" source="twFZDK1VKZwnkP3VVlu0-16" target="twFZDK1VKZwnkP3VVlu0-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="twFZDK1VKZwnkP3VVlu0-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="twFZDK1VKZwnkP3VVlu0-19">
+        <mxCell id="twFZDK1VKZwnkP3VVlu0-24" value="Yes&lt;div&gt;the same as the expected sales amount&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="twFZDK1VKZwnkP3VVlu0-19">
           <mxGeometry x="-0.1618" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
