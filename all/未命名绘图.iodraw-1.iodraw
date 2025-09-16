@@ -33,7 +33,7 @@
             <mxRectangle x="20" y="120" width="720" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="twFZDK1VKZwnkP3VVlu0-9" value="calculate the net price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-4">
+        <mxCell id="twFZDK1VKZwnkP3VVlu0-9" value="calculate the net price manually" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-4">
           <mxGeometry x="110" y="30" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="twFZDK1VKZwnkP3VVlu0-5" value="Risk Dept" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="twFZDK1VKZwnkP3VVlu0-2">
