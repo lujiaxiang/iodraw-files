@@ -19,6 +19,9 @@
         <mxCell id="aEb1M_Ct7PZxLifvhq7R-2" value="销售员：创建客户订单授信，并提交OA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0sBSHhOrqu5OVTJydHWF-23">
           <mxGeometry x="230" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aEb1M_Ct7PZxLifvhq7R-6" value="销售员：创建客户订单授信，并提交OA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0sBSHhOrqu5OVTJydHWF-23">
+          <mxGeometry x="380" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="0sBSHhOrqu5OVTJydHWF-24" value="OA" style="swimlane;startSize=20;horizontal=0;html=1;" parent="0sBSHhOrqu5OVTJydHWF-22" vertex="1">
           <mxGeometry x="20" y="120" width="970" height="120" as="geometry" />
         </mxCell>
