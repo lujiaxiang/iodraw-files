@@ -16,7 +16,7 @@
         <mxCell id="aEb1M_Ct7PZxLifvhq7R-1" value="销售员：录入商机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0sBSHhOrqu5OVTJydHWF-23">
           <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aEb1M_Ct7PZxLifvhq7R-2" value="销售员：创建客户订单授信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0sBSHhOrqu5OVTJydHWF-23">
+        <mxCell id="aEb1M_Ct7PZxLifvhq7R-2" value="销售员：创建客户订单授信，并提交OA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0sBSHhOrqu5OVTJydHWF-23">
           <mxGeometry x="230" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sBSHhOrqu5OVTJydHWF-24" value="OA" style="swimlane;startSize=20;horizontal=0;html=1;" parent="0sBSHhOrqu5OVTJydHWF-22" vertex="1">
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="0sBSHhOrqu5OVTJydHWF-25" value="线下" style="swimlane;startSize=20;horizontal=0;html=1;" parent="0sBSHhOrqu5OVTJydHWF-22" vertex="1">
           <mxGeometry x="20" y="240" width="970" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aEb1M_Ct7PZxLifvhq7R-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0sBSHhOrqu5OVTJydHWF-22" source="aEb1M_Ct7PZxLifvhq7R-2" target="aEb1M_Ct7PZxLifvhq7R-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
