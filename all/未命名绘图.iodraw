@@ -22,7 +22,7 @@
         <mxCell id="0sBSHhOrqu5OVTJydHWF-24" value="OA" style="swimlane;startSize=20;horizontal=0;html=1;" parent="0sBSHhOrqu5OVTJydHWF-22" vertex="1">
           <mxGeometry x="20" y="120" width="970" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aEb1M_Ct7PZxLifvhq7R-4" value="销售员：创建客户订单授信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0sBSHhOrqu5OVTJydHWF-24">
+        <mxCell id="aEb1M_Ct7PZxLifvhq7R-4" value="风控分析员：审核客户与订单，填写授信金额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0sBSHhOrqu5OVTJydHWF-24">
           <mxGeometry x="230" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sBSHhOrqu5OVTJydHWF-25" value="线下" style="swimlane;startSize=20;horizontal=0;html=1;" parent="0sBSHhOrqu5OVTJydHWF-22" vertex="1">
