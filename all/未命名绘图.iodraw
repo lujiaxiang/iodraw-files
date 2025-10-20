@@ -1,20 +1,20 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Se5enDLoEZfBmlyo_2N8">
-    <mxGraphModel dx="2391" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="957" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0sBSHhOrqu5OVTJydHWF-22" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="350" width="690" height="360" as="geometry" />
+          <mxGeometry x="290" y="110" width="990" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="0sBSHhOrqu5OVTJydHWF-23" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" parent="0sBSHhOrqu5OVTJydHWF-22" vertex="1">
-          <mxGeometry x="20" width="670" height="120" as="geometry" />
+        <mxCell id="0sBSHhOrqu5OVTJydHWF-23" value="CRM" style="swimlane;startSize=20;horizontal=0;html=1;" parent="0sBSHhOrqu5OVTJydHWF-22" vertex="1">
+          <mxGeometry x="20" width="970" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0sBSHhOrqu5OVTJydHWF-24" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" parent="0sBSHhOrqu5OVTJydHWF-22" vertex="1">
-          <mxGeometry x="20" y="120" width="670" height="120" as="geometry" />
+          <mxGeometry x="20" y="120" width="970" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0sBSHhOrqu5OVTJydHWF-25" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" parent="0sBSHhOrqu5OVTJydHWF-22" vertex="1">
-          <mxGeometry x="20" y="240" width="670" height="120" as="geometry" />
+          <mxGeometry x="20" y="240" width="970" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
