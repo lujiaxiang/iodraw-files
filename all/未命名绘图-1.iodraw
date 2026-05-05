@@ -16,6 +16,9 @@
         <mxCell id="47aPsLeQPo38su7CarnG-3" value="销售人员：同步SAP生成销售订单并且将成本比例发送给财务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="30" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="47aPsLeQPo38su7CarnG-4" value="财务：根据销售订单和成本创建运输票" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
