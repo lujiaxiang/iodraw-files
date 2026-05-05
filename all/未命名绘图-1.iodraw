@@ -5,16 +5,16 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="47aPsLeQPo38su7CarnG-0" value="销售人员创建整机合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="30" width="160" height="60" as="geometry" />
+          <mxGeometry x="30" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47aPsLeQPo38su7CarnG-1" value="销售人员：依据拆运标准创建类型为子母票的备件销售订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="30" width="160" height="60" as="geometry" />
+          <mxGeometry x="230" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47aPsLeQPo38su7CarnG-2" value="销售人员：依据备件销售订单创建发车单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="30" width="160" height="60" as="geometry" />
+          <mxGeometry x="420" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47aPsLeQPo38su7CarnG-3" value="销售人员：同步SAP生成销售订单并且将成本比例发送给财务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="30" width="160" height="60" as="geometry" />
+          <mxGeometry x="610" y="30" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
