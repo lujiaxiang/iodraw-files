@@ -13,8 +13,8 @@
         <mxCell id="47aPsLeQPo38su7CarnG-2" value="销售人员：依据备件销售订单创建发车单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="410" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="47aPsLeQPo38su7CarnG-3" value="销售人员：依据备件销售订单创建发车单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="420" width="160" height="60" as="geometry" />
+        <mxCell id="47aPsLeQPo38su7CarnG-3" value="销售人员：同步SAP生成销售订单并且将成本比例发送给财务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="510" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
