@@ -16,11 +16,14 @@
         <mxCell id="pSRJNcUuWacbaAVl8--O-2" value="TOTVS推送订单数据至CRM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pSRJNcUuWacbaAVl8--O-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pSRJNcUuWacbaAVl8--O-4" target="pSRJNcUuWacbaAVl8--O-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pSRJNcUuWacbaAVl8--O-4" value="CRM接受并校验订单数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="280" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pSRJNcUuWacbaAVl8--O-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="760" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
