@@ -25,13 +25,18 @@
         <mxCell id="pSRJNcUuWacbaAVl8--O-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pSRJNcUuWacbaAVl8--O-8" target="pSRJNcUuWacbaAVl8--O-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pSRJNcUuWacbaAVl8--O-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pSRJNcUuWacbaAVl8--O-14">
+        <mxCell id="pSRJNcUuWacbaAVl8--O-33" value="校验成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pSRJNcUuWacbaAVl8--O-14">
           <mxGeometry x="0.3714" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pSRJNcUuWacbaAVl8--O-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pSRJNcUuWacbaAVl8--O-8" target="pSRJNcUuWacbaAVl8--O-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSRJNcUuWacbaAVl8--O-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pSRJNcUuWacbaAVl8--O-31">
+          <mxGeometry x="-0.4767" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pSRJNcUuWacbaAVl8--O-8" value="校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320.01" y="330" width="100.33" height="70" as="geometry" />
