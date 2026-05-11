@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="47aPsLeQPo38su7CarnG-1" value="销售人员：依据拆运标准创建类型为子母票的备件销售订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="30" width="160" height="60" as="geometry" />
+          <mxGeometry x="220" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47aPsLeQPo38su7CarnG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="47aPsLeQPo38su7CarnG-2" target="47aPsLeQPo38su7CarnG-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="47aPsLeQPo38su7CarnG-2" value="销售人员：依据备件销售订单创建发车单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="30" width="160" height="60" as="geometry" />
+          <mxGeometry x="414" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47aPsLeQPo38su7CarnG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="47aPsLeQPo38su7CarnG-3" target="47aPsLeQPo38su7CarnG-4">
           <mxGeometry relative="1" as="geometry" />
