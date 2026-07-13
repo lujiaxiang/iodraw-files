@@ -157,7 +157,7 @@
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-161" target="byHf9eaZbAlHWCsir4gQ-162">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="857.5714285714287" y="1230" as="targetPoint" />
+            <mxPoint x="847.5714285714287" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-160" value="Sales, delivery" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHf9eaZbAlHWCsir4gQ-159">
@@ -166,10 +166,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-161" value="Sign the contract with customer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1130" width="115" height="70" as="geometry" />
+          <mxGeometry x="790" y="1130" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-162" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="837.5" y="1250" width="40" height="40" as="geometry" />
+          <mxGeometry x="827.5" y="1250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-165" target="byHf9eaZbAlHWCsir4gQ-166">
           <mxGeometry relative="1" as="geometry">
