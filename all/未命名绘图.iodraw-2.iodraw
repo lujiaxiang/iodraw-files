@@ -73,6 +73,12 @@
         <mxCell id="byHf9eaZbAlHWCsir4gQ-123" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="755" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-126" target="byHf9eaZbAlHWCsir4gQ-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-126" target="byHf9eaZbAlHWCsir4gQ-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-126" value="Include out-of-stock items in the order" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="725" y="950" width="90" height="40" as="geometry" />
         </mxCell>
@@ -115,6 +121,9 @@
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-140" value="Sign the contract with customer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="469.97" y="1130" width="115" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-143" target="byHf9eaZbAlHWCsir4gQ-126">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-143" value="Based on discount, verify net price" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="712.5" y="860" width="115" height="70" as="geometry" />
