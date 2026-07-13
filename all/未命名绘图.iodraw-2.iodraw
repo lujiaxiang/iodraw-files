@@ -120,7 +120,7 @@
           <mxGeometry x="469.97" y="1130" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-143" value="Based on discount, verify net price" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="617.5" y="1280" width="115" height="70" as="geometry" />
+          <mxGeometry x="617.5" y="930" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-146" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="507.47" y="1250" width="40" height="40" as="geometry" />
@@ -143,15 +143,15 @@
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-158" target="byHf9eaZbAlHWCsir4gQ-165">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="837.5714285714287" y="1140" as="targetPoint" />
+            <mxPoint x="697.5714285714287" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-158" value="Sign the contract with customer, support the partial shipments" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="780" y="970" width="115" height="70" as="geometry" />
+          <mxGeometry x="640" y="1130" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-161" target="byHf9eaZbAlHWCsir4gQ-162">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="997.5714285714287" y="1070" as="targetPoint" />
+            <mxPoint x="857.5714285714287" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-160" value="Sales, delivery" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHf9eaZbAlHWCsir4gQ-159">
@@ -160,14 +160,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-161" value="Sign the contract with customer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="940" y="970" width="115" height="70" as="geometry" />
+          <mxGeometry x="800" y="1130" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-162" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="977.5" y="1090" width="40" height="40" as="geometry" />
+          <mxGeometry x="837.5" y="1250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-165" target="byHf9eaZbAlHWCsir4gQ-166">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="837.6014285714286" y="1180" as="targetPoint" />
+            <mxPoint x="697.6014285714286" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-164" value="Notification of arrival and delivery" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHf9eaZbAlHWCsir4gQ-163">
@@ -176,10 +176,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-165" value="Notify the purchasing staff&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;to procure the out-of-stock items&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1075" width="115" height="70" as="geometry" />
+          <mxGeometry x="640" y="1235" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-166" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="817.5" y="1190" width="40" height="40" as="geometry" />
+          <mxGeometry x="677.5" y="1350" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
