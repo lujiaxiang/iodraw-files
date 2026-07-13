@@ -53,7 +53,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-122" target="byHf9eaZbAlHWCsir4gQ-131">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="820" />
+              <mxPoint x="390" y="820" />
+              <mxPoint x="390" y="870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-122" value="Pricing&lt;div&gt;decision&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="755" width="90" height="40" as="geometry" />
@@ -71,7 +77,7 @@
           <mxGeometry x="660" y="870" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-131" value="Include out-of-stock items in the order" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="840" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" y="870" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
