@@ -127,6 +127,11 @@
             <mxPoint x="260" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-151" value="Notify the arrival" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHf9eaZbAlHWCsir4gQ-150">
+          <mxGeometry x="0.1154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-149" value="Notify the purchasing staff&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;to procure the out-of-stock items&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="309.97" y="1085" width="115" height="70" as="geometry" />
         </mxCell>
