@@ -103,6 +103,11 @@
             <mxPoint x="507.57142857142867" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-147" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHf9eaZbAlHWCsir4gQ-145">
+          <mxGeometry x="-0.2686" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-140" value="Sign the contract with customer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="450" y="980" width="115" height="70" as="geometry" />
         </mxCell>
