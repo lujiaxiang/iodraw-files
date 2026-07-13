@@ -13,18 +13,10 @@
         <mxCell id="byHf9eaZbAlHWCsir4gQ-102" value="Send the material list and Qty&lt;div&gt;(usually not include price)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="740" width="115" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="byHf9eaZbAlHWCsir4gQ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-104">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="775" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="byHf9eaZbAlHWCsir4gQ-104" value="Review the quotation and confirm the purchase decision" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="283.5" y="740" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="byHf9eaZbAlHWCsir4gQ-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="byHf9eaZbAlHWCsir4gQ-104" source="byHf9eaZbAlHWCsir4gQ-110">
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-110">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="900" as="sourcePoint" />
-            <mxPoint x="330" y="900" as="targetPoint" />
+            <mxPoint x="338.5" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-110" value="Receive list of materials, check inventory and price" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
@@ -48,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-119" value="Review the quotation and confirm the purchase decision" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="283.5" y="740" width="110" height="70" as="geometry" />
+          <mxGeometry x="280" y="725" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-122" target="byHf9eaZbAlHWCsir4gQ-123">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-122" value="Pricing&lt;div&gt;decision&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="430" y="810" width="90" height="40" as="geometry" />
+          <mxGeometry x="430" y="755" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-123" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="755" width="40" height="40" as="geometry" />
