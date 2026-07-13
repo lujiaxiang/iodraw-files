@@ -44,7 +44,7 @@
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-133" value="Request a discount" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHf9eaZbAlHWCsir4gQ-127">
           <mxGeometry x="0.3035" y="1" relative="1" as="geometry">
-            <mxPoint y="-6" as="offset" />
+            <mxPoint y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-122" target="byHf9eaZbAlHWCsir4gQ-131">
