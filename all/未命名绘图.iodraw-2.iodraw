@@ -87,7 +87,7 @@
         <mxCell id="byHf9eaZbAlHWCsir4gQ-131" value="Include out-of-stock items in the order" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="860" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="byHf9eaZbAlHWCsir4gQ-137" value="Prepare a quotation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-137" value="Sign the contract with customer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="980" width="115" height="70" as="geometry" />
         </mxCell>
       </root>
