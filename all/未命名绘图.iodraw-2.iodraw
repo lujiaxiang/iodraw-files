@@ -73,6 +73,35 @@
         <mxCell id="byHf9eaZbAlHWCsir4gQ-52" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="354" y="50" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-74" target="byHf9eaZbAlHWCsir4gQ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-74" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="135" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-75" value="Send the material list and Qty&lt;div&gt;(usually not include price)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="144" y="120" width="115" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-77" target="byHf9eaZbAlHWCsir4gQ-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-77" value="Review the quotation and confirm the purchase decision" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="120" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-80" target="byHf9eaZbAlHWCsir4gQ-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-79" value="Reject the quotaion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHf9eaZbAlHWCsir4gQ-78">
+          <mxGeometry x="-0.2444" y="-2" relative="1" as="geometry">
+            <mxPoint x="13" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-80" value="Pricing&lt;div&gt;decision&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="424" y="135" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-81" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="135" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
