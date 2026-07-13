@@ -90,6 +90,9 @@
         <mxCell id="byHf9eaZbAlHWCsir4gQ-137" value="Sign the contract with customer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="980" width="115" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-140" value="Sign the contract with customer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="505" y="980" width="115" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
