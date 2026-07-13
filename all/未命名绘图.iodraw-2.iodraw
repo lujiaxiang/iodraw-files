@@ -45,7 +45,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="565" y="820" />
-              <mxPoint x="725" y="820" />
+              <mxPoint x="645" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -121,6 +121,9 @@
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-146" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="487.5" y="1100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="byHf9eaZbAlHWCsir4gQ-149" target="byHf9eaZbAlHWCsir4gQ-137">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="byHf9eaZbAlHWCsir4gQ-149" value="Notify the purchasing staff&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;to procure the out-of-stock items&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="1085" width="115" height="70" as="geometry" />
