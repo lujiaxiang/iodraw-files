@@ -122,7 +122,7 @@
         <mxCell id="byHf9eaZbAlHWCsir4gQ-146" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="487.5" y="1100" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="byHf9eaZbAlHWCsir4gQ-149" value="Notify the purchasing department to make the purchase." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="byHf9eaZbAlHWCsir4gQ-149" value="Notify the purchasing dept to make the purchase" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="1140" width="115" height="70" as="geometry" />
         </mxCell>
       </root>
