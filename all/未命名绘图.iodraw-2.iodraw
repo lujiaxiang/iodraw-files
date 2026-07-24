@@ -118,11 +118,19 @@
         <mxCell id="kkV0cZbUNcAmOi7xrLse-40" value="通过XGSS查询物料&lt;div&gt;角色：顾问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="622.5" y="640" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kkV0cZbUNcAmOi7xrLse-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kkV0cZbUNcAmOi7xrLse-42" target="kkV0cZbUNcAmOi7xrLse-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkV0cZbUNcAmOi7xrLse-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kkV0cZbUNcAmOi7xrLse-45">
+          <mxGeometry x="-0.4407" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-42" value="是否能准确识别物料" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="730" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-44" value="向客户反馈确认&lt;div&gt;角色：顾问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="820" width="180" height="60" as="geometry" />
+          <mxGeometry x="622.5" y="820" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
