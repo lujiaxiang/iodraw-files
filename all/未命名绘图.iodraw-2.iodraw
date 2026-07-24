@@ -67,8 +67,8 @@
         <mxCell id="kkV0cZbUNcAmOi7xrLse-19" value="清单是否完成、准确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="540" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kkV0cZbUNcAmOi7xrLse-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="kkV0cZbUNcAmOi7xrLse-23" value="联系客户补充或修正清单&lt;div&gt;角色：销售团队&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
