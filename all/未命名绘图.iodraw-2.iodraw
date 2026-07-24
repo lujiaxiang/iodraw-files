@@ -155,6 +155,9 @@
         <mxCell id="kkV0cZbUNcAmOi7xrLse-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkV0cZbUNcAmOi7xrLse-48" target="kkV0cZbUNcAmOi7xrLse-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kkV0cZbUNcAmOi7xrLse-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkV0cZbUNcAmOi7xrLse-48" target="kkV0cZbUNcAmOi7xrLse-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-48" value="客户是否确认物料" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="910" width="150" height="60" as="geometry" />
         </mxCell>
@@ -165,7 +168,7 @@
           <mxGeometry x="407.5" y="820" width="175" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-56" value="编制并提交报价单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1050" width="175" height="60" as="geometry" />
+          <mxGeometry x="407.5" y="1030" width="175" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
