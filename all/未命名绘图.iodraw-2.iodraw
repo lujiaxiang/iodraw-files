@@ -8,7 +8,7 @@
           <mxGeometry x="310" y="40" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-2" value="客户提出备件需求&lt;div&gt;渠道：Whatsup、邮件、电话&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="275" y="100" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
