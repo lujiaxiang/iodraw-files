@@ -64,11 +64,6 @@
         <mxCell id="kkV0cZbUNcAmOi7xrLse-16" value="核对物料清单信息&lt;div&gt;角色：销售团队&lt;/div&gt;&lt;div&gt;内容：物料号、数量、名称&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kkV0cZbUNcAmOi7xrLse-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kkV0cZbUNcAmOi7xrLse-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-19" value="清单是否完成、准确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="540" width="150" height="60" as="geometry" />
         </mxCell>
