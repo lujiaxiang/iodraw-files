@@ -19,8 +19,8 @@
         <mxCell id="kkV0cZbUNcAmOi7xrLse-4" value="是否为新客户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kkV0cZbUNcAmOi7xrLse-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="280" width="80" height="80" as="geometry" />
+        <mxCell id="kkV0cZbUNcAmOi7xrLse-6" value="登记客户信息&lt;div&gt;角色：销售团队&lt;/div&gt;&lt;div&gt;内容：营业执照、CNPJ、地区、名称、联系人&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
