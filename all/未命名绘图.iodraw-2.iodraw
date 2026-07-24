@@ -51,7 +51,7 @@
           <mxGeometry x="275" y="360" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-16" value="核对物料清单信息&lt;div&gt;角色：销售团队&lt;/div&gt;&lt;div&gt;内容：物料号、数量、名称&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="480" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
