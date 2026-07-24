@@ -98,13 +98,16 @@
           <mxGeometry x="100" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-29" value="形成最终确认清单&lt;div&gt;角色：销售团队&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="640" width="175" height="80" as="geometry" />
+          <mxGeometry x="257.5" y="800" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kkV0cZbUNcAmOi7xrLse-32" target="kkV0cZbUNcAmOi7xrLse-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-32" value="收集物料识别信息&lt;div&gt;角色：销售团队&lt;/div&gt;&lt;div&gt;内容：照片、名称、VIN码、安装位置等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="420" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kkV0cZbUNcAmOi7xrLse-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkV0cZbUNcAmOi7xrLse-36" target="kkV0cZbUNcAmOi7xrLse-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-36" value="转交顾问团队进行物料识别&lt;div&gt;角色：顾问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="530" width="180" height="80" as="geometry" />
