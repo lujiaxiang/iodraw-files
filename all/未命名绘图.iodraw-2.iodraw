@@ -47,7 +47,7 @@
           <mxGeometry x="100" y="250" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-9" value="客户是否提供物料清单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="350" width="170" height="50" as="geometry" />
+          <mxGeometry x="275" y="370" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
