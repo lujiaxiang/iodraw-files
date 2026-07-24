@@ -72,6 +72,14 @@
             <mxPoint x="-5" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kkV0cZbUNcAmOi7xrLse-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkV0cZbUNcAmOi7xrLse-19" target="kkV0cZbUNcAmOi7xrLse-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkV0cZbUNcAmOi7xrLse-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kkV0cZbUNcAmOi7xrLse-30">
+          <mxGeometry x="-0.3" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-19" value="清单是否完成、准确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="540" width="150" height="60" as="geometry" />
         </mxCell>
@@ -82,7 +90,7 @@
           <mxGeometry x="100" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kkV0cZbUNcAmOi7xrLse-29" value="形成最终确认清单&lt;div&gt;角色：销售团队&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="640" width="175" height="80" as="geometry" />
+          <mxGeometry x="257.5" y="640" width="175" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
